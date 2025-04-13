@@ -4,3 +4,4 @@ pengen lebih mengerti tentang github dan dit
 pengen konsisten teruss
 pengen beli hp baru 
 pengen punya satu juta pertama buat beli hp baru 
+ini adalah contoh dari branch yang berbeda ini edit dari branch latihan-branch
